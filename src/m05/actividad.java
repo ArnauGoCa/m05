@@ -77,7 +77,7 @@ public class actividad {
 	 * </p>
 	 * 
 	 * 
-	 * @param frase String introduida previament per teclat
+	 * @param frase String introduida previament per teclat per l'usuari
 	 * @return contador int sumant 2 per cada vocal junta amb un altre vocal igual
 	 */
 	public static int vocalsjuntes(String frase) {
